@@ -8,7 +8,7 @@ pr: none
 
 resources:
   repositories:
-  - repository: AzureGeneric
+  - repository: dtstrepro
     type: github
     endpoint: dts2018005
     name: dmittal01/dt2018005
