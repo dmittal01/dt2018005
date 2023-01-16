@@ -10,7 +10,7 @@ resources:
   repositories:
   - repository: dtstrepro
     type: github
-    endpoint: dts20180051
+    endpoint: dts2018005
     name: dmittal01/dt2018005
     ref: refs/heads/main
 
